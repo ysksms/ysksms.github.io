@@ -68,7 +68,7 @@ A classic text-based Hangman game built with Python. The game challenges players
 **Tech Stack**  
 Python (Standard Library only)
 
-#### 📈 [Podcast Listening Time Prediction (Kaggle)](https://github.com/ysksms/Podcast_Listening_Time_Prediction/blob/main/predict_podcast_using_LightGBM.ipynb)
+#### 📈 [Podcast Listening Time Prediction (Kaggle)](https://github.com/ysksms/Podcast_Listening_Time_Prediction)
 
 Built a regression model using **LightGBM** to predict podcast episode listening time. Implemented in a Kaggle Notebook, with a focus on handling structured data efficiently and evaluating performance using RMSE.
 [Predict Podcast Listening Time](https://www.kaggle.com/competitions/playground-series-s5e4)
